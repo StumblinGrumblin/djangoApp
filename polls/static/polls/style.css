@@ -1,0 +1,7 @@
+label, li, h1, p {
+  color: white;
+}
+
+body {
+  background: white url("images/woodtile2.jpg") repeat right bottom;
+}
